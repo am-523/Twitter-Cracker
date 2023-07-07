@@ -1,0 +1,8 @@
+{
+    "Global": {
+        "threads" : 300,
+	"capture" : false,
+    "change_pwd": true
+    }
+
+}
